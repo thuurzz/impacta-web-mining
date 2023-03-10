@@ -1,3 +1,6 @@
+# Integrantes:
+# Arthur Vinicius Santos Silva RA:1903365
+
 from flask import Flask, jsonify
 import pandas as pd 
 
